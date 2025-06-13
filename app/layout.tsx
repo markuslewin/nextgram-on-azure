@@ -1,9 +1,9 @@
-import './global.css';
+import "./global.css";
 
 export const metadata = {
-  title: 'NextGram',
+  title: "NextGram on Azure",
   description:
-    'A sample Next.js app showing dynamic routing with modals as a route.',
+    "A sample Next.js app showing dynamic routing with modals as a route.",
 };
 
 export default function RootLayout(props: {
